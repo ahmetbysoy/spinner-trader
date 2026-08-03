@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Quant Terminal",
+  "description": "Real-time Crypto Microstructure, Order Book Imbalance, CVD Analytics & Quant Trading Terminal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
